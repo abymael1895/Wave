@@ -1,12 +1,12 @@
-## Wave
+# Wave
 
 Aplicativo para conversão de texto em voz em Kotlin, de um jeito bonitinho.
  
 :)
 
-# Creators:
+## Creators:
 
-# Abymael Rennare @abymael1895
-# Thomas Tarso @thomastarso
+## Abymael Rennare @abymael1895
+## Thomas Tarso @thomastarso
 
-all rights reserveds ##wave 2024
+all rights reserveds wave 2024
