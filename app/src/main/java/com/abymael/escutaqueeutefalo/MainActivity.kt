@@ -39,8 +39,8 @@ class MainActivity : AppCompatActivity(), TextToSpeech.OnInitListener {
             speakOut()
         }
 
-        binding.criadores.setOnClickListener {
-            startActivity(Intent(this, Criadores::class.java))
+        binding.settings.setOnClickListener {
+            startActivity(Intent(this, Settings::class.java))
         }
     }
 
